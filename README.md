@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gamel ALi</h1>
 <h3 align="center">A passionate Cyber Security Learner from Egypt</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Network Pentesting**
 
-- 💬 Ask me about **Networks and Linux**
+- 💬 Ask me about **Networking, Linux, Pentesting**
 
 - 📫 How to reach me **Gamel_ali@outlook.com**
 
